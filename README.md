@@ -1,6 +1,6 @@
-# javascript
+# Javascript
 Here you will find simple codes for simple tasks
 
-# Updates
+# What can you find here?
 
-1. Added <a href="https://github.com/Stefannag/javascript/blob/main/reversestring.js" target="_blank">a simple and nice script to reverse your string in Javascript</a>. It's very easy to use and understand.
+1. <a href="https://github.com/Stefannag/javascript/blob/main/reversestring.js" target="_blank">A simple and nice script to reverse your string in Javascript</a>. It's very easy to use and understand.
